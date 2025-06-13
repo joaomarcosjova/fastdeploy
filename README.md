@@ -3,21 +3,17 @@
 <img src="public/demo.png">
 
 #
-Hi there! 👋
+O FastDeploy é um kit inicial moderno para fundadores e desenvolvedores que desejam construir e lançar rapidamente sem se prender a uma configuração complexa. Seja criando um SaaS, uma ferramenta de IA ou qualquer tipo de aplicativo web, o FastDeploy oferece tudo o que você precisa para transformar sua ideia em receita com o mínimo de atrito.
 
-FastDeploy is a modern starter kit for founders and developers who want to build and launch fast without getting stuck in setup hell. Whether you're creating a SaaS, an AI tool, or any kind of web app, FastDeploy gives you everything you need to go from idea to income with minimal friction.
-
-It’s built with a modern stack — including Next.js, Supabase, Stripe, LemonSqueezy, Drizzle ORM, and Mailgun — and comes fully wired with essential features like authentication, payments, protected API routes, email handling, and SEO.
-
-FastDeploy removes that overhead so you can launch in days, not weeks. Just plug in your logo, set your product name, and start building what matters — or start making money.
+Desenvolvido com techologia moderna — incluindo Next.js, Supabase, Stripe, LemonSqueezy, Drizzle ORM e Mailgun — e vem totalmente equipado com recursos essenciais como autenticação, pagamentos, rotas de API protegidas, gerenciamento de e-mails e SEO.
 
 ## Features
 
-- SEO Optimisation
-- User authentication with Supabase
-- Stripe and LemonSqueezy integration
-- Email notifications via Mailgun
-- Modern UI built with Next.js and TailwindCSS
+- Otimização de SEO
+- Autenticação de usuários com Supabase
+- Integração com Stripe e LemonSqueezy
+- Notificações por e-mail via Mailgun
+- Interface de usuário moderna desenvolvida com Next.js e TailwindCSS
 
 ## Docker Setup
 
