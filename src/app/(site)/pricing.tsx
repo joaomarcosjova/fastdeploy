@@ -12,31 +12,32 @@ export default function PricingSection() {
       <div className="max-w-7xl mx-auto">
         {/* Header */}
         <div className="text-center mb-16">
-          <p className="text-[#FFBE18] font-medium mb-4">Pricing</p>
+          <p className="text-[#FFBE18] font-medium mb-4">Preços</p>
           <h2 className="text-4xl md:text-5xl font-bold mb-4">
-            Save hours of repetitive code,
-            <br />
-            ship fast, get profitable!
+           Economize horas de código repetitivo,
+          <br />
+          entregue rápido e obtenha lucro!
           </h2>
           <p className="text-green-500 flex items-center justify-center gap-2">
             <span className="inline-block">🎉</span>
-            100% Free Forever!
+            $80 de desconto para os primeiros 7.200 clientes (restam 11)
           </p>
         </div>
 
         <div className="max-w-md mx-auto">
           <div className="rounded-xl bg-zinc-900 p-6 border border-green-500/50 relative">
             <div className="absolute -top-3 right-6 bg-green-500 text-black text-sm font-semibold px-3 py-1 rounded-full">
-              FREE
+              ilimitado
             </div>
-            <h3 className="text-xl font-semibold mb-4">Community Edition</h3>
+            <h3 className="text-xl font-semibold mb-4">All-in</h3>
             <div className="mb-6">
               <div className="flex items-baseline gap-1">
-                <span className="text-4xl font-bold">$0</span>
+                <span className="text-xl line-through text-gray-500">$125</span>
+                <span className="text-5xl font-bold">$45</span>
                 <span className="text-zinc-500">USD</span>
               </div>
               <p className="text-green-500 text-sm mt-2">
-                Free Forever, No Credit Card Required
+                Pague uma vez. Crie projetos ilimitados!
               </p>
             </div>
 
@@ -47,22 +48,21 @@ export default function PricingSection() {
               <Feature>Stripe / Lemon Squeezy</Feature>
               <Feature>MongoDB / Supabase</Feature>
               <Feature>Google OAuth & Magic Links</Feature>
-              <Feature>Components & animations</Feature>
-              <Feature>ChatGPT prompts for terms & privacy</Feature>
-              <Feature>Discord community access</Feature>
-              <Feature>Regular updates</Feature>
+              <Feature>Componentes e animações</Feature>
+              <Feature>ChatGPT solicita termos e privacidade</Feature>
+              <Feature>Atualizações regulares</Feature>
             </div>
 
             <button
               onClick={() =>
-                window.open("https://github.com/idee8/shipfree", "_blank")
+                window.open("https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=marcosjova3@gmail.com&amount=45&currency_code=USD&item_name=Payment&no_note=1&no_shipping=1&rm=1&return=https://fast.desploy&cancel_return=https://fast.desploy&bn=PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGues", "_blank")
               }
               className="w-full bg-green-500 hover:bg-green-400 transition-colors text-black font-semibold py-3 px-4 rounded-lg flex items-center justify-center gap-2"
             >
-              <span>⚡</span> Get Started Now
+              <span>⚡</span> Comece agora
             </button>
             <p className="text-center text-zinc-500 text-sm mt-4">
-              Join thousands of developers building amazing projects!
+              Junte-se a milhares de desenvolvedores!
             </p>
           </div>
         </div>

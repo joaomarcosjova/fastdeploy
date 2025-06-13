@@ -9,54 +9,44 @@ interface FAQItem {
 
 const faqs: FAQItem[] = [
   {
-    question: "Is this really free?",
+    question: "O que recebo exatamente?",
     answer:
-      "Yes! ShipFree is open-source and community-driven. Use it for unlimited projects, no strings attached.",
+      "O iniciador do NextJS vem com todo o código boilerplate necessário para administrar um negócio online, incluindo sistema de pagamento, banco de dados, login, blog, componentes de interface do usuário e muito mais. O repositório está disponível nas versões JavaScript e TypeScript, com suporte tanto para o /app router quanto para o /pages router. A documentação detalhada ajuda você a configurar seu aplicativo do zero, escrever textos que vendem e realizar entregas com rapidez.",
   },
   {
-    question: "What do I need to use ShipFree?",
+    question: "Minha tech stack é diferente, ainda posso usar?",
     answer:
-      "All you need is a GitHub account to clone the repo and a deployment platform like Vercel or Railway.",
+      "Sim, desde que se sinta confortável com o React e o NextJS. As bibliotecas são independentes. Pode utilizar o SendGrid em vez do Mailgun, o LemonSqueezy em vez do Stripe ou o Postgres em vez do MongoDB, por exemplo.",
   },
   {
-    question: "Can I customize it?",
+    question: "Funciona com ferramentas de IA?",
     answer:
-      "Built with Next.js, Tailwind, and modern tools, ShipFree is fully extensible.",
+      "Não funciona apenas com IA, como também foi criado para ela. O FastDeploy vem com uma base de código completa, o que dá ao seu editor de código de IA um contexto real para criar recursos completos em segundos. Pode simplesmente pedir à sua IA para criar o recurso de que necessita, e ela irá gerar o código para si, utilizando a convenção de nomenclatura, a estrutura de ficheiros e as melhores práticas a que está habituado.",
   },
   {
-    question: "How does it compare to ShipFast?",
+    question: "É um modelo de website?",
     answer:
-      "ShipFast is paid; ShipFree gives you similar core features—completely free! Perfect for bootstrappers who want to launch now.",
+      "É mais do que apenas um modelo. Você pode copiar e colar seções para criar seu site rapidamente, como uma seção de preços, uma seção de perguntas frequentes e até mesmo um blog inteiro. Você também obtém diversos componentes de interface do usuário, como botões, modais, pop-ups, etc. O NextJS também inclui ferramentas úteis que você precisa para administrar um negócio online — processamento de pagamentos, e-mails, SEO, etc.",
   },
   {
-    question: "Does ShipFree include a database?",
-    answer: "Yes! It supports MongoDB and Supabase out of the box.",
+    question: "FastDeploy inclui um banco de dados?",
+    answer: "Sim! O FastDeploy oferece suporte nativo ao MongoDB e ao Supabase, prontos para uso.",
   },
   {
-    question: "Is there a community I can join?",
+    question: "O FastDeploy é melhor do que ferramentas de IA como Lovable ou Bolt?",
     answer:
-      "Yes! We have an active Discord community where founders help each other grow.",
+      "Lovable e Bolt são ótimas ferramentas se você quer criar uma landing page rapidamente. Mas elas não ajudam a lançar uma startup. O FastDeploy é um boilerplate completo para startups. Ele vem com um sistema de pagamento, um banco de dados, login, componentes de interface de usuário testados e comprovados e muito mais. Ele dá ao seu editor de código de IA contexto real para criar recursos completos em segundos. Reutilize o ShipFast em todos os projetos para não perder tempo reaprendendo uma nova configuração.",
   },
   {
-    question: "What if I need help?",
+    question: "Can I contribute to FastDeploy?",
     answer:
-      "We have detailed documentation, video tutorials, and community support to guide you.",
-  },
-  {
-    question: "Can I contribute to ShipFree?",
-    answer:
-      "ShipFree is open-source—we welcome contributions from developers worldwide.",
+      "FastDeploy is open-source—we welcome contributions from developers worldwide.",
   },
 
   {
-    question: "Can I use ShipFree for commercial projects?",
+    question: "Existe algum custo extra?",
     answer:
-      "Yes! You can launch and scale real businesses with ShipFree. No restrictions.",
-  },
-  {
-    question: "Is there a roadmap for future features?",
-    answer:
-      "Yes! We're constantly improving ShipFree. Check our GitHub roadmap to see what's coming next.",
+      "Muitas plataformas de hospedagem, como a Vercel, permitem hospedar um projeto gratuitamente (front-end + back-end), e o MongoDB/Supabase oferece planos gratuitos — assim, você pode lançar o primeiro aplicativo por US$ 0/mês. Se você usar o cadastro do Magic Link, gastará US$ 1 por 1.000 usuários.",
   },
 ];
 
@@ -74,24 +64,24 @@ export default function FAQ() {
     >
       <div className="mx-auto max-w-3xl">
         <h2 className="mb-4 text-center text-4xl font-medium text-white">
-          Frequently Asked Questions
+          Perguntas frequentes
         </h2>
         <p className="mb-12 text-center text-base text-zinc-500">
-          Have another question? Contact us on{" "}
+          Tem alguma outra dúvida? Entre em contato pelo {" "}
           <a
-            href="https://x.com/idee8agency"
+            href="mailto:info@kadoshsoftwares.com"
             target="_blank"
-            className="text-zinc-200 hover:text-white underline"
+            className="text-zinc-200 hover:text-yellow-500 underline"
           >
-            Twitter
-          </a>{" "}
-          or by{" "}
+            Email
+          </a> {" "}
+          ou {" "}
           <a
-            href="mailto:hi@idee8.agency"
+            href="https://wa.me/918699097087"
             target="_blank"
-            className="text-zinc-200 hover:text-white underline"
+            className="text-zinc-200 hover:text-green-500 underline"
           >
-            email
+             WhatsApp
           </a>
           .
         </p>

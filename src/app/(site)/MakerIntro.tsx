@@ -6,29 +6,29 @@ export default function MakerIntro() {
           <div className="relative w-[200px] h-[200px] flex-shrink-0">
             <div
               className="absolute inset-0 bg-cover bg-center rounded-lg flex flex-col items-center justify-center p-6 text-center"
-              style={{ backgroundImage: "url('/idee8.png')" }}
+              style={{ backgroundImage: "url('/face.jpg')" }}
             ></div>
           </div>
 
           <div className="space-y-4">
             <h1 className="text-2xl font-semibold text-white">
-              Built for Founders, by Founders 🚀
+              Lance sua ideia mais rápido 🚀
             </h1>
             <p className="text-base">
-              We were tired of spending weeks on setup instead of actually
-              building. Every project felt like déjà vu—setting up auth,
-              configuring Stripe, dealing with email deliverability...
+             Estávamos cansados ​​de passar semanas configurando em vez de realmente
+            desenvolver. Cada projeto parecia um déjà vu — configurando a autenticação,
+            configurando o Stripe, lidando com a entregabilidade de e-mails...
             </p>
             <p className="text-base">
-              So we built{" "}
+              Então nós construímos{" "}
               <a
                 href="#"
                 className="text-white hover:text-gray-200 underline underline-offset-2"
               >
-                ShipFree
+                FastDeploy
               </a>{" "}
-              at <strong>idee8</strong> to remove those roadblocks and help
-              founders launch faster—**for free**.
+              na <strong>Kadosh Softwares</strong> para remover esses obstáculos e ajudar
+              os fundadores a lançar mais rápido.
             </p>
           </div>
         </div>
@@ -38,30 +38,30 @@ export default function MakerIntro() {
 
           <ol className="space-y-4 list-decimal list-inside">
             <li className="text-base">
-              <span className="font-semibold text-white">Save time</span>—skip
-              the repetitive setup and start building immediately.
+              <span className="font-semibold text-white">Economize tempo - </span> 
+              pule a configuração repetitiva e comece a construir imediatamente.
             </li>
             <li className="text-base">
-              <span className="font-semibold text-white">Avoid headaches</span>
-              —no more struggling with email deliverability, payments, or auth.
+              <span className="font-semibold text-white">Evite dores de cabeça - </span> 
+             chega de dificuldades com entrega de e-mails, pagamentos ou autenticação.
             </li>
             <li className="text-base">
               <span className="font-semibold text-white">
-                Get profitable faster
+                Obtenha lucro mais rápido - 
               </span>
-              —the faster you ship, the quicker you validate and earn.
+              quanto mais rápido você enviar, mais rápido você validará e ganhará.
             </li>
           </ol>
 
           <p className="text-base">
-            Thousands of founders have used ShipFree to{" "}
+            Vários fundadores usaram o FastDeploy para{" "}
             <a
               href="#"
               className="text-white hover:text-gray-200 underline underline-offset-2"
             >
-              launch, land clients, and generate revenue
+              lançar, conquistar clientes e gerar receita
             </a>
-            —all without paying a dime. Scroll down to see what they say! 🚀
+            - Role para baixo para ver o que eles dizem! 🚀
           </p>
         </div>
       </div>

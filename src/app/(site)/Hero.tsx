@@ -18,16 +18,17 @@ const HeroSection = () => {
           </div>
 
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold mb-4 text-[#CFCFCF] leading-tight">
-            Deploy your startup
+            Lance sua startup
             <br />
-            in days,{" "}
-            <span className="bg-[#CFCFCF] text-[#2E1A05] px-2">not weeks</span>
+            em dias,{" "}
+            <span className="bg-[#CFCFCF] text-[#2E1A05] px-2">não em meses</span>
           </h1>
 
           <p className="text-base text-[#CFCFCF] mb-8 max-w-2xl mx-auto lg:mx-0">
-            Tired of wasting time on setup instead of build? FastDeploy is the
-            fastest way to launch your SaaS, AI tool, or web app. No
-            setup headaches, no paywall drama just clone, build and deploy!
+            Cansado de perder tempo com configurações em vez de construir? O FastDeploy 
+            é a forma mais rápida de lançar seu SaaS, ferramenta de IA ou aplicativo web. 
+            Sem dores de cabeça na configuração, sem dramas com paywalls — apenas clone, 
+            construa e implemente!
           </p>
 
           <Link
@@ -37,7 +38,7 @@ const HeroSection = () => {
             className="inline-flex mt-5 items-center justify-center gap-2 bg-[#FFBE1A] hover:bg-yellow-500 text-black px-8 sm:px-20 py-3 rounded-xl font-medium text-lg mb-6 duration-300 transition-colors"
           >
             <Zap fill="#000000" className="w-5 h-5" />
-            Get FastDeploy
+            Adquira o FastDeploy
           </Link>
 
           <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4">
@@ -71,8 +72,8 @@ const HeroSection = () => {
                   ))}
                 </div>
                 <p className="text-zinc-100 mt-1 text-sm sm:text-base">
-                  <span className="font-medium">6301</span>
-                  <span className="text-zinc-400 ml-2">makers ship faster</span>
+                  <span className="font-medium">1209</span>
+                  <span className="text-zinc-400 ml-2">Fast Deployers</span>
                 </p>
               </div>
             </div>

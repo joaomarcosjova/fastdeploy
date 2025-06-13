@@ -3,11 +3,10 @@ export default function CTA() {
     <section className="relative bg-[#0F0F0F] px-4 py-24 md:py-32">
       <div className="mx-auto max-w-3xl text-center">
         <h2 className="mb-4 text-4xl font-medium tracking-tight text-white md:text-5xl lg:text-6xl">
-          Boost your app, launch, earn
+          Impulsione seu aplicativo, lance, & ganhe
         </h2>
         <p className="mb-8 text-lg text-zinc-400 md:text-xl">
-          Don&apos;t waste time on Stripe subscriptions or designing a pricing
-          section...
+          Não perca tempo com assinaturas do Stripe ou criando uma seção de preços...
         </p>
         <a
           href="https://github.com/idee8/shipfree"
@@ -29,8 +28,8 @@ export default function CTA() {
               strokeLinejoin="round"
             />
           </svg>
-          Get ShipFree
-        </a>
+          Obtenha o FastDeploy 
+          </a>
       </div>
     </section>
   );

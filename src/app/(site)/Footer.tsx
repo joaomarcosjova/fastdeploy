@@ -10,7 +10,10 @@ export default function Footer() {
                 ⚡ FastDeploy
               </span>
             </div>
-            <p className="text-sm text-zinc-400">Built for makers, by makers</p>
+            <p className="text-sm text-zinc-400">
+              Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito,
+               para que todo aquele que nele crê não pereça, mas tenha a vida eterna.
+               (S.Joao.3:16) </p>
             <p className="text-sm text-zinc-500">
               Copyright © 2025 - All rights reserved
             </p>
@@ -106,7 +109,7 @@ export default function Footer() {
 
           {/* By the Creator Column */}
           <div>
-            <h3 className="mb-4 text-sm font-semibold uppercase tracking-wider text-zinc-400">
+            <h3 className="mb-4 text-sm font-semibold tracking-wider text-zinc-400">
               🌎 By the Creator of FastDeploy
             </h3>
             <ul className="space-y-3 text-sm">
@@ -166,12 +169,12 @@ export default function Footer() {
         </div>
 
         <div className="mt-12 border-t border-zinc-800 pt-8 text-center text-sm text-zinc-500">
-          © 2025 FastDeploy. All Rights Reserved. Cooked for you by{" "}
+          © 2025 FastDeploy. All Rights Reserved. {" "}
           <a
-            href="https://idee8.agency"
+            href="https://kadoshsoftwares.com"
             className="text-zinc-400 hover:text-white"
           >
-            idee8.agency
+            Kadosh Softwares
           </a>
           .
         </div>

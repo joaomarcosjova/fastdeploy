@@ -8,14 +8,14 @@ import {
 
 export default function FeaturedTime() {
   const timeBreakdown = [
-    { time: 4, task: "to set up emails" },
-    { time: 6, task: "designing a landing page" },
-    { time: 4, task: "to handle Stripe webhooks" },
-    { time: 2, task: "for SEO tags" },
-    { time: 1, task: "applying for Google Oauth" },
+    { time: 4, task: "para configurar e-mails" },
+    { time: 8, task: "projetando uma landing page" },
+    { time: 4, task: "para implementar Stripe webhooks" },
+    { time: 2, task: "para tags de SEO" },
+    { time: 1, task: "solicitando Google Oauth" },
     { time: 3, task: "for DNS records" },
-    { time: 2, task: "for protected API routes" },
-    { time: "∞", task: "overthinking..." },
+    { time: 3, task: "para rotas de API protegidas" },
+    { time: "∞", task: "pensando muito..." },
   ];
 
   return (
@@ -63,8 +63,8 @@ export default function FeaturedTime() {
 
           <div className="flex justify-center items-center gap-3 pt-4 text-xl font-semibold">
             <span className="text-gray-500">=</span>
-            <span className="text-red-400">22+ hours</span>
-            <span className="text-gray-300">of headaches</span>
+            <span className="text-red-400">22+ horas</span>
+            <span className="text-gray-300">de dores de cabeça</span>
             <CloudRain className="w-6 h-6 text-gray-400" />
           </div>
         </div>
@@ -72,7 +72,7 @@ export default function FeaturedTime() {
         {/* Bottom arrow */}
         <div className="text-center text-gray-400">
           <div className="text-2xl mb-2">↓</div>
-          <p className="text-sm">There's an easier way</p>
+          <p className="text-sm">Existe uma maneira mais fácil</p>
         </div>
       </div>
     </div>
