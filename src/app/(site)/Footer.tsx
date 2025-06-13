@@ -7,7 +7,7 @@ export default function Footer() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <span className="text-xl font-semibold text-white">
-                ⚡ ShipFree
+                ⚡ FastDeploy
               </span>
             </div>
             <p className="text-sm text-zinc-400">Built for makers, by makers</p>
@@ -15,7 +15,7 @@ export default function Footer() {
               Copyright © 2025 - All rights reserved
             </p>
             <div className="inline-flex items-center gap-2 rounded-md border border-zinc-500 bg-zinc-800/50 px-4 py-2 text-xs text-zinc-400">
-              Built with ⚡ ShipFree
+              Built with ⚡ FastDeploy
             </div>
           </div>
 
@@ -107,7 +107,7 @@ export default function Footer() {
           {/* By the Creator Column */}
           <div>
             <h3 className="mb-4 text-sm font-semibold uppercase tracking-wider text-zinc-400">
-              🌎 By the Creator of ShipFree
+              🌎 By the Creator of FastDeploy
             </h3>
             <ul className="space-y-3 text-sm">
               {/* {["idee8.agency", "React AI", "Code Mentor"].map((item) => ( */}
@@ -166,7 +166,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-12 border-t border-zinc-800 pt-8 text-center text-sm text-zinc-500">
-          © 2025 ShipFree. All Rights Reserved. Cooked for you by{" "}
+          © 2025 FastDeploy. All Rights Reserved. Cooked for you by{" "}
           <a
             href="https://idee8.agency"
             className="text-zinc-400 hover:text-white"
