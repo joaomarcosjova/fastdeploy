@@ -33,7 +33,7 @@ export default function PricingSection() {
             <div className="mb-6">
               <div className="flex items-baseline gap-1">
                 <span className="text-xl line-through text-gray-500">$125</span>
-                <span className="text-5xl font-bold">$45</span>
+                <span className="text-5xl font-bold">$29</span>
                 <span className="text-zinc-500">USD</span>
               </div>
               <p className="text-green-500 text-sm mt-2">
@@ -55,7 +55,7 @@ export default function PricingSection() {
 
             <button
               onClick={() =>
-                window.open("https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=marcosjova3@gmail.com&amount=45&currency_code=USD&item_name=Payment&no_note=1&no_shipping=1&rm=1&return=https://fast.desploy&cancel_return=https://fast.desploy&bn=PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGues", "_blank")
+                window.open("https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=marcosjova3@gmail.com&amount=29&currency_code=USD&item_name=Payment&no_note=1&no_shipping=1&rm=1&return=https://fast.desploy&cancel_return=https://fast.desploy&bn=PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGues", "_blank")
               }
               className="w-full bg-green-500 hover:bg-green-400 transition-colors text-black font-semibold py-3 px-4 rounded-lg flex items-center justify-center gap-2"
             >

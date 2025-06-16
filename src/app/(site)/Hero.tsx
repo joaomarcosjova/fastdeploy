@@ -32,7 +32,7 @@ const HeroSection = () => {
           </p>
 
           <Link
-            href="https://github.com/idee8/FastDeploy"
+            href="https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=marcosjova3@gmail.com&amount=29&currency_code=USD&item_name=Payment&no_note=1&no_shipping=1&rm=1&return=https://fast.desploy&cancel_return=https://fast.desploy&bn=PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGues"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex mt-5 items-center justify-center gap-2 bg-[#FFBE1A] hover:bg-yellow-500 text-black px-8 sm:px-20 py-3 rounded-xl font-medium text-lg mb-6 duration-300 transition-colors"
@@ -48,7 +48,7 @@ const HeroSection = () => {
                 "https://pbs.twimg.com/profile_images/1855635236509388800/PFMQ949e_400x400.jpg",
                 "https://pbs.twimg.com/profile_images/933422170499371008/drhhIn0z_400x400.jpg",
                 "https://pbs.twimg.com/profile_images/1870096957370445827/PQrjfHGt_400x400.jpg",
-                "https://pbs.twimg.com/profile_images/1850639995444371456/9rbx-lYe_400x400.jpg",
+                "https://pbs.twimg.com/profile_images/1784563357300740096/2DyzEa9d_400x400.jpg",
               ].map((avatar, index) => (
                 <img
                   key={index}

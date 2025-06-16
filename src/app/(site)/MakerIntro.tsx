@@ -6,7 +6,7 @@ export default function MakerIntro() {
           <div className="relative w-[200px] h-[200px] flex-shrink-0">
             <div
               className="absolute inset-0 bg-cover bg-center rounded-lg flex flex-col items-center justify-center p-6 text-center"
-              style={{ backgroundImage: "url('/face.jpg')" }}
+              style={{ backgroundImage: "url('/face.jpeg')" }}
             ></div>
           </div>
 

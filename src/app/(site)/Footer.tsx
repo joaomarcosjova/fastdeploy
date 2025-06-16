@@ -14,9 +14,6 @@ export default function Footer() {
               Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito,
                para que todo aquele que nele crê não pereça, mas tenha a vida eterna.
                (S.Joao.3:16) </p>
-            <p className="text-sm text-zinc-500">
-              Copyright © 2025 - All rights reserved
-            </p>
             <div className="inline-flex items-center gap-2 rounded-md border border-zinc-500 bg-zinc-800/50 px-4 py-2 text-xs text-zinc-400">
               Built with ⚡ FastDeploy
             </div>
@@ -29,25 +26,8 @@ export default function Footer() {
             </h3>
             <ul className="space-y-3 text-sm">
               <li>
-                <a
-                  href="#wall-of-love"
-                  className="text-zinc-400 hover:text-white"
-                >
-                  Wall of love
-                </a>
-              </li>
-              <li>
                 <a href="#pricing" className="text-zinc-400 hover:text-white">
-                  Pricing
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://x.com/idee8agency"
-                  target="_blank"
-                  className="text-zinc-400 hover:text-white"
-                >
-                  Twitter
+                  Instagram
                 </a>
               </li>
               <li>
@@ -56,7 +36,7 @@ export default function Footer() {
                   target="_blank"
                   className="text-zinc-400 hover:text-white"
                 >
-                  Github
+                  Linkedin
                 </a>
               </li>
               <li>
@@ -110,7 +90,7 @@ export default function Footer() {
           {/* By the Creator Column */}
           <div>
             <h3 className="mb-4 text-sm font-semibold tracking-wider text-zinc-400">
-              🌎 By the Creator of FastDeploy
+              🌎 By Kadosh Team
             </h3>
             <ul className="space-y-3 text-sm">
               {/* {["idee8.agency", "React AI", "Code Mentor"].map((item) => ( */}
@@ -142,34 +122,11 @@ export default function Footer() {
                 </a>
               </li>
             </ul>
-
-            {/* Newsletter Section */}
-            <div className="mt-6">
-              <h4 className="mb-3 text-sm font-semibold text-zinc-400">
-                📩 Newsletter for Makers
-              </h4>
-              <p className="mb-4 text-sm text-zinc-500">
-                Get startup tips & resources every week!
-              </p>
-              <form className="flex gap-2">
-                <input
-                  type="email"
-                  placeholder="Enter your email"
-                  className="flex-1 rounded-lg bg-zinc-800/50 px-3 py-2 text-sm text-white placeholder-zinc-500 outline-none ring-zinc-700 transition-shadow focus:ring-2"
-                />
-                <button
-                  type="submit"
-                  className="rounded-lg bg-white px-4 py-2 text-sm font-medium text-black hover:bg-zinc-200"
-                >
-                  Subscribe
-                </button>
-              </form>
-            </div>
           </div>
         </div>
 
         <div className="mt-12 border-t border-zinc-800 pt-8 text-center text-sm text-zinc-500">
-          © 2025 FastDeploy. All Rights Reserved. {" "}
+          © FastDeploy. All Rights Reserved. {" "}
           <a
             href="https://kadoshsoftwares.com"
             className="text-zinc-400 hover:text-white"
