@@ -1,41 +1,41 @@
-# Code of Conduct
+# Código de Conduta
 
-## Our Pledge
+## O Nosso Compromisso
 
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+Nós, enquanto membros, colaboradores e líderes, comprometemo-nos a tornar a participação na nossa comunidade numa experiência livre de assédio para todos, independentemente da idade, tamanho corporal, deficiência visível ou invisível, etnia, características sexuais, identidade e expressão de género, nível de experiência, educação, estatuto socioeconómico, nacionalidade, aparência pessoal, raça, religião ou identidade e orientação sexual.
 
-## Our Standards
+## Os Nossos Padrões
 
-Examples of behavior that contributes to creating a positive environment include:
+Exemplos de comportamentos que contribuem para a criação de um ambiente positivo incluem:
 
-- Using welcoming and inclusive language
-- Being respectful of differing viewpoints and experiences
-- Gracefully accepting constructive criticism
-- Focusing on what is best for the community
-- Showing empathy towards other community members
+- Utilizar linguagem acolhedora e inclusiva
+- Respeitar diferentes pontos de vista e experiências
+- Aceitar críticas construtivas com elegância
+- Focar no que é melhor para a comunidade
+- Demonstrar empatia pelos outros membros da comunidade
 
-Examples of unacceptable behavior include:
+Exemplos de comportamento inaceitável incluem:
 
-- The use of sexualized language or imagery and unwelcome sexual attention or advances
-- Trolling, insulting/derogatory comments, and personal or political attacks
-- Public or private harassment
-- Publishing others’ private information, such as a physical or electronic address, without explicit permission
-- Other conduct which could reasonably be considered inappropriate in a professional setting
+- O uso de linguagem ou imagens sexualizadas e a atenção ou investidas sexuais indesejadas
+- Trolling, comentários insultuosos/depreciativos e ataques pessoais ou políticos
+- Assédio público ou privado
+- Publicar informações privadas de terceiros, como o endereço físico ou eletrónico, sem permissão explícita
+- Outras condutas que possam ser razoavelmente consideradas inadequadas em ambiente profissional
 
-## Our Responsibilities
+## As Nossas Responsabilidades
 
-Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+Os líderes comunitários são responsáveis ​​por clarificar e aplicar os nossos padrões de comportamento aceitável e tomarão medidas corretivas adequadas e justas em resposta a quaisquer casos de comportamento inaceitável.
 
-## Scope
+## Âmbito
 
-This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces.
+Este Código de Conduta aplica-se a todos os espaços comunitários e também quando um indivíduo representa oficialmente a comunidade em espaços públicos.
 
-## Enforcement
+## Fiscalização
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at hi@idee8.agency. All complaints will be reviewed and investigated promptly and fairly.
+Casos de comportamento abusivo, assediante ou de outra forma inaceitável podem ser denunciados aos líderes da comunidade responsáveis ​​pela fiscalização, através do e-mail info@kadoshsoftwares.com. Todas as reclamações serão analisadas e investigadas de forma rápida e justa.
 
-## Attribution
+## Atribuição
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+Este Código de Conduta foi adaptado do [Contributor Covenant][homepage], versão 2.0, disponível em https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
 [homepage]: https://www.contributor-covenant.org
