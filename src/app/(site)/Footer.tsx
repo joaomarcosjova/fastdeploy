@@ -68,7 +68,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="/privacy"
+                  href="/privacy-policy"
                   target="_blank"
                   className="text-zinc-400 hover:text-white"
                 >
