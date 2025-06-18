@@ -32,7 +32,7 @@ const HeroSection = () => {
           </p>
 
           <Link
-            href="https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=marcosjova3@gmail.com&amount=29&currency_code=USD&item_name=Payment&no_note=1&no_shipping=1&rm=1&return=https://fast.desploy&cancel_return=https://fast.desploy&bn=PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGues"
+            href="https://github.com/joaomarcosjova/fastdeploy/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex mt-5 items-center justify-center gap-2 bg-[#FFBE1A] hover:bg-yellow-500 text-black px-8 sm:px-20 py-3 rounded-xl font-medium text-lg mb-6 duration-300 transition-colors"
