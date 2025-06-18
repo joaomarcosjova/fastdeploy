@@ -1,47 +1,47 @@
-# Contributing to ShipFree
+# Contribuindo para o FastDeploy
 
-Thank you for considering contributing to ShipFree! We welcome contributions from the community.
+Obrigado por considerar contribuir para o FastDeploy! Contribuições da comunidade são bem-vindas.
 
-## How to Contribute
+## Como Contribuir
 
-1. **Fork the repository**: Click the "Fork" button at the top right of the repository page.
+1. **Faça um fork do repositório**: Clique no botão "Fork" no canto superior direito da página do repositório.
 
-2. **Clone your fork**:
+2. **Clone o seu fork**:
 
-   ```sh
-   git clone https://github.com/your-username/shipfree.git
-   cd shipfree
-   ```
+```sh
+git clone https://github.com/seu-nome-de-utilizador/fastdeploy.git
+cd fastdeploy
+```
 
-3. **Create a branch**:
+3. **Crie uma branch**:
 
-   ```sh
-   git checkout -b my-feature-branch
-   ```
+```sh
+git checkout -b meu-branch-de-recursos
+```
 
-4. **Make your changes**: Implement your feature or bug fix.
+4. **Faça as suas alterações**: Implemente a sua funcionalidade ou correção de bug.
 
-5. **Commit your changes**:
+5. **Commit as suas alterações**:
 
-   ```sh
-   git add .
-   git commit -m "Description of your changes"
-   ```
+```sh
+git adicionar .
+git commit -m "Descrição das suas alterações"
+```
 
-6. **Push to your fork**:
+6. **Envie para o seu fork**:
 
-   ```sh
-   git push origin my-feature-branch
-   ```
+```sh
+git push origin my-feature-branch
+```
 
-7. **Create a Pull Request**: Go to the original repository and click the "New Pull Request" button.
+7. **Criar um Pull Request**: Aceda ao repositório original e clique no botão "New Pull Request".
 
-## Code of Conduct
+## Código de Conduta
 
-Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+Note que este projeto é lançado com um [Código de Conduta do Colaborador](CODE_OF_CONDUCT.md). Ao participar neste projeto, concorda em cumprir os seus termos.
 
-## Reporting Issues
+## Reportar Problemas
 
-If you find a bug or have a feature request, please create an issue on GitHub.
+Se encontrar um bug ou tiver um pedido de funcionalidade, crie um issue no GitHub.
 
-Thank you for your contributions!
+Agradecemos as suas contribuições!
