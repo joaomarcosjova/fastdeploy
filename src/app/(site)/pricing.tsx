@@ -27,13 +27,13 @@ export default function PricingSection() {
         <div className="max-w-md mx-auto">
           <div className="rounded-xl bg-zinc-900 p-6 border border-green-500/50 relative">
             <div className="absolute -top-3 right-6 bg-green-500 text-black text-sm font-semibold px-3 py-1 rounded-full">
-              Community Edition
+              Grátis
             </div>
-            <h3 className="text-xl font-semibold mb-4">Grátis</h3>
+            <h3 className="text-xl font-semibold mb-4">Community Edition</h3>
             <div className="mb-6">
               <div className="flex items-baseline gap-1">
                 <span className="text-xl line-through text-gray-500">$125</span>
-                <span className="text-5xl font-bold">0</span>
+                <span className="text-6xl font-bold">0</span>
                 <span className="text-zinc-500">USD</span>
               </div>
               <p className="text-green-500 text-sm mt-2">
